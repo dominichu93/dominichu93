@@ -15,7 +15,7 @@ We've built our controls software in Rust, and browser-based 3D simulation, and 
 
 We're at an inflection point, we are making revenue, have strong customer demand and are scaling production to deliver a growing pipeline of deployments to deliver.
 
-We value high ownership, and practical problem-solving. Our culture is built for generalists who want to make real world impact by coding, prototyping hardware, or running robots on-site
+We value high ownership, and practical problem-solving. We value generalists who want to make real world impact by coding, prototyping hardware, or running robots on-site
 
 If you're tired of Saas, excited to build products that touch the physical world, and want to help influence the future of construction, apply below! 
 
