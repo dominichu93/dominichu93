@@ -25,7 +25,7 @@ We offer a autonomous, high-impact environment for those excited to build produc
 
 
 
- 🏗️ [Email 📧](mailto:dominic@monumental.co) or [Apply on our jobs page](https://www.monumental.co/jobs) 🧱
+📧 [Email](mailto:dominic@monumental.co) or [Apply on our jobs page](https://www.monumental.co/jobs) 🧱
 
 
 ---
