@@ -16,7 +16,13 @@ We offer a autonomous, high-impact environment for those excited to build produc
 ---
 
 ### We are hiring!
-**Software Engineers** (Full Stack, Controls & Machine Vision), **Hardware Engineer** (Mechanical & Mechatronics)
+
+**Software Engineers** ∘ Full Stack | Controls | Machine Vision  
+**Hardware Engineer** ∘ Mechanical & Mechatronics
+
+
+
+
 
 
  🏗️ [Email 📧](mailto:dominic@monumental.co) or [Apply on our jobs page](https://www.monumental.co/jobs) 🧱
@@ -24,5 +30,10 @@ We offer a autonomous, high-impact environment for those excited to build produc
 
 ---
 
-[About Monumental](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium OS](https://www.monumental.co/atrium) &nbsp;|&nbsp;
+[About Monumental](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium OS](https://www.monumental.co/atrium) &nbsp;|&nbsp; [Our Raise](our-25-million-fundraise)
+
+---
+
+
+
 
