@@ -16,7 +16,7 @@ The technical challenges we're solving combine hardware, software, and infrastru
 
 Help us bring our robots to life and join our mission to bring automation to the construction industry to create affordable, beautiful, high-quality housing for everyone. If you're new to robotics, you should read Bouke's post about [getting in robotics as a software engineer](https://bou.ke/blog/robotics/).
 
-We're at an inflection point, we are making revenue, have strong customer demand and are scaling up our team and production to deliver a growing pipeline of deployments.
+We're at an inflection point, our company is generating revenue, has strong customer demand and are scaling up our team and production to deliver a growing pipeline of deployments.
 
 We value high ownership, and practical problem-solving. We value generalists who want to make real world impact by coding, prototyping hardware, or running robots on-site
 
