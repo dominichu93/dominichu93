@@ -34,6 +34,7 @@ We value high ownership and practical problem-solving. We value generalists who 
 
 
 ---
+### More about Monumental
 
 [About Monumental](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium](https://www.monumental.co/atrium) &nbsp;|&nbsp; [Our Raise](our-25-million-fundraise) &nbsp;|&nbsp; [Getting in robotics as a software engineer](https://bou.ke/blog/robotics/) &nbsp;|&nbsp; [Building Walls: A journey in robotics](https://www.alfred-polycarpe.com/building-walls-a-journey-in-robotics)
 
