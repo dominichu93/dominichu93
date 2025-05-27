@@ -14,13 +14,9 @@ The technical challenges we're solving combine hardware, software, and infrastru
 
 [Atrium, our operating system for construction](https://www.monumental.co/atrium), is built with TypeScript and Rust. Much of our Rust code is compiled to WebAssembly, allowing our UI to interface directly with the same control code that we deployed to our robots. This gives us a shared stack between real-world deployments and simulated runs in the front-end.
 
-Help us bring our robots to life and join our mission to bring automation to the construction industry to create affordable, beautiful, high-quality housing for everyone. If you're new to robotics, you should read Bouke's post about [getting in robotics as a software engineer](https://bou.ke/blog/robotics/).
-
 We're at an inflection point, our company is generating revenue, has strong customer demand and are scaling up our team and production to deliver a growing pipeline of deployments.
 
-We value high ownership, and practical problem-solving. We value generalists who want to make real world impact by coding, prototyping hardware, or running robots on-site
-
-If you're tired of Saas, excited to build products that touch the physical world, and want to help influence the future of construction, apply below! 
+We value high ownership and practical problem-solving. We value generalists who want to make real-world impact. If you're tired of SaaS, excited to build products that touch the physical world, and want to help influence the future of construction, apply below! 
 
 ---
 
@@ -39,7 +35,7 @@ If you're tired of Saas, excited to build products that touch the physical world
 
 ---
 
-[About Monumental](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium OS](https://www.monumental.co/atrium) &nbsp;|&nbsp; [Our Raise](our-25-million-fundraise)
+[About Monumental](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium](https://www.monumental.co/atrium) &nbsp;|&nbsp; [Our Raise](our-25-million-fundraise) &nbsp;|&nbsp; [Getting in robotics as a software engineer](https://bou.ke/blog/robotics/) &nbsp;|&nbsp; [Building Walls: A journey in robotics](https://www.alfred-polycarpe.com/building-walls-a-journey-in-robotics)
 
 ---
 
