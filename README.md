@@ -5,7 +5,7 @@ Hi, I'm Dom. Chief of Staff at ..
   <img src="https://github.com/user-attachments/assets/674ae1d1-5660-42cc-a676-c6b1da040f58" alt="MONUMENTAL_red" width="300"/>
 </p>
 
-Our mission is to make construction primarily software-defined and work towards a future where beautiful, bespoke buildings are built quickly and with minimal labour.
+Our mission is to make construction primarily software-defined and work towards a future where beautiful, bespoke buildings are built quickly and efficiently, with minimal labour.
 
 Monumental are developing AI-driven robots that autonomously build walls with sub-millimetre precision. Our team has designed all hardware and software in-house. We’re deploying our bricklaying robots to construction sites across the Netherlands to address Europe's skilled labour shortage.
 
