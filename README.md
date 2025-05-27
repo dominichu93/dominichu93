@@ -15,10 +15,12 @@ We offer a autonomous, high-impact environment for those excited to build produc
 
 ---
 
-### We're hiring!
-**Software Engineers** (Full Stack, Controls & Machine Vision), **Hardware Engineer** (Mechanical & Mechatronics) 
+### We are hiring!
+**Software Engineers** (Full Stack, Controls & Machine Vision), **Hardware Engineer** (Mechanical & Mechatronics)
 
-📧 Reach me at dominic@monumental.co or [apply on our jobs page](https://www.monumental.co/jobs)
+
+ 🏗️ [Email 📧](mailto:dominic@monumental.co) or [Apply on our jobs page](https://www.monumental.co/jobs) 🧱
+
 
 ---
 
