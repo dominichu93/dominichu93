@@ -1,4 +1,4 @@
-Hi, I'm Dom – Chief of Staff at
+Hi, I'm Dom. Chief of Staff at ..
 
 
 <p align="centre">
