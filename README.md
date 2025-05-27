@@ -18,7 +18,7 @@ We offer a autonomous, high-impact environment for those excited to build produc
 ### We are hiring!
 
 **Software Engineers** ∘ Full Stack | Controls | Machine Vision  
-**Hardware Engineer** ∘ Mechanical & Mechatronics
+**Hardware Engineer** ∘ Mechanical | Mechatronics
 
 
 
