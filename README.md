@@ -11,8 +11,9 @@ Monumental are developing AI-driven robots that autonomously build walls with su
 
 The technical challenges we're solving combine hardware, software, and infrastructure at scale - all while maintaining high availability on construction sites.
 
-We've built our controls software in Rust, and browser-based 3D simulation, and digital twin is built with TypeScript. For complex operations like path planning, we compile Rust to WebAssembly.
+The technical challenges we're solving combine hardware, software, and infrastructure at scale - all while maintaining high availability on construction sites. [Atrium, our operating system for construction](https://www.monumental.co/atrium), is built with TypeScript and Rust. Much of our Rust code is compiled to WebAssembly, allowing our UI to interface directly with the same control code that we deployed to our robots. This gives us a shared stack between real-world deployments and simulated runs in the front-end.
 
+Help us bring our robots to life and join our mission to bring automation to the construction industry to create affordable, beautiful, high-quality housing for everyone. If you're new to robotics, you might enjoy [reading Bouke's blog post on his experience joining Monumental as a software engineer](https://bou.ke/blog/robotics/).
 We're at an inflection point, we are making revenue, have strong customer demand and are scaling production to deliver a growing pipeline of deployments to deliver.
 
 We value high ownership, and practical problem-solving. We value generalists who want to make real world impact by coding, prototyping hardware, or running robots on-site
