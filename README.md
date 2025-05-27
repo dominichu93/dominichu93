@@ -7,7 +7,7 @@ Hi, I'm Dom. Chief of Staff at ..
 
 Our mission is to make construction primarily software-defined and work towards a future where beautiful, bespoke buildings are built quickly and with minimal labour.
 
-we have been developing AI-driven robots that autonomously build walls with sub-millimetre precision. Our team has designed all hardware and software in-house. We’re deploying our bricklaying robots to construction sites across the Netherlands to address Europe's skilled labour shortage.
+Monumental are developing AI-driven robots that autonomously build walls with sub-millimetre precision. Our team has designed all hardware and software in-house. We’re deploying our bricklaying robots to construction sites across the Netherlands to address Europe's skilled labour shortage.
 
 The technical challenges we're solving combine hardware, software, and infrastructure at scale - all while maintaining high availability on construction sites.
 
