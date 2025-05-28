@@ -16,7 +16,7 @@ The technical challenges we're solving combine hardware, software, and infrastru
 
 We're at an inflection point, our company is generating revenue, has strong customer demand and are scaling up our team and production to deliver a growing pipeline of deployments.
 
-We value high ownership and practical problem-solving. We value generalists who want to make real-world impact. If you're tired of SaaS, excited to build products that touch the physical world, and want to help influence the future of construction, apply below! 
+We value high ownership and practical problem-solving. We're looking for generalists who want to make real-world impact. If you're tired of SaaS, excited to build products that touch the physical world, and want to help influence the future of construction, apply below! 
 
 ---
 
