@@ -31,7 +31,7 @@ If you're tired of SaaS, excited to build products that touch the physical world
 ---
 ### More about Monumental
 
-[About Us](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium](https://www.monumental.co/atrium) &nbsp;|&nbsp; [Our Raise](our-25-million-fundraise) &nbsp;|&nbsp; [Getting in robotics as a software engineer](https://bou.ke/blog/robotics/) &nbsp;|&nbsp; [Building Walls: A journey in robotics](https://www.alfred-polycarpe.com/building-walls-a-journey-in-robotics)
+[About Us](https://www.monumental.co/about) &nbsp;|&nbsp; [Our Mission](https://www.monumental.co/our-vision) &nbsp;|&nbsp; [Atrium](https://www.monumental.co/atrium) &nbsp;|&nbsp; [Monumental Substack](https://substack.com/@buildmonumental) &nbsp;|&nbsp;
 
 ---
 
