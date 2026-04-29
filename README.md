@@ -25,7 +25,7 @@ If you're tired of SaaS, excited to build products that touch the physical world
 
 
 
-📧 [Email](mailto:dominic@monumental.co) or [Apply on our jobs page](https://www.monumental.co/jobs) 🧱
+📧 [Email](mailto:dominic@monumental.co) or [Apply on our jobs page](https://www.monumental.co/jobs)
 
 
 ---
