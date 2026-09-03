@@ -7,9 +7,11 @@ Hi, I'm Dom. Chief of Staff at ..
 
 Our mission is to make construction primarily software-defined and work towards a future where beautiful, bespoke buildings are built quickly and efficiently, with minimal labour.
 
-Monumental are developing AI-driven robots that autonomously build walls with sub-millimetre precision. Our team has designed all hardware and software in-house. We’re deploying our bricklaying robots to construction sites across the Netherlands and Uk to address Europe's skilled labour shortage.
+We’re deploying our bricklaying robots onto construction sites across the Netherlands and UK to address Europe's skilled labour shortage.
 
-[Atrium, our operating system for construction](https://www.monumental.co/atrium), is built with TypeScript and Rust. Much of our Rust code is compiled to WebAssembly, allowing our UI to interface directly with the same control code that we deployed to our robots. This gives us a shared stack between real-world deployments and simulated runs in the front-end.
+[Atrium, OS for construction](https://www.monumental.co/atrium), proprietary software takes architectural drawings and turns them into robot-executable plans, coordinates a fleet of robots on each site, localizes robots with millimeter accuracy, tracks every brick, and QAs the wall as it gets built.
+
+It’s CAD, ERP, BI, robotics control, and operations in one place: planning deployments, designing buildings, executing build plans in real life and in simulation, and analyzing the results
 
 If you're interested - apply below! 
 
