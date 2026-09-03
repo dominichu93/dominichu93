@@ -9,7 +9,7 @@ Our mission is to make construction primarily software-defined and work towards 
 
 We’re deploying our bricklaying robots onto construction sites across the Netherlands and UK to address Europe's skilled labour shortage.
 
-[Atrium, OS for construction](https://www.monumental.co/atrium), proprietary software takes architectural drawings and turns them into robot-executable plans, coordinates a fleet of robots on each site, localizes robots with millimeter accuracy, tracks every brick, and QAs the wall as it gets built.
+[Atrium, OS for onsite construction](https://www.monumental.co/atrium), proprietary software takes architectural drawings and turns them into robot-executable plans, coordinates a fleet of robots on each site, localizes robots with millimeter accuracy, tracks every brick, and QAs the wall as it gets built.
 
 It’s CAD, ERP, BI, robotics control, and operations in one place: planning deployments, designing buildings, executing build plans in real life and in simulation, and analyzing the results
 
